@@ -20,4 +20,7 @@
 ## 📫 لینک‌ها
 - [وب‌سایت من](https://example.com)
 - [لینکدین](https://linkedin.com/in/yourusername)
-- [تلگرام](https://t.me/yourusername)
+- [تلگرام](https://t.me/َ@AmirRezaATT)
+
+
+
