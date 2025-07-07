@@ -4,18 +4,19 @@
 
 I'm a backend developer with a strong focus on Python and Django. I'm passionate about building scalable applications and love working with open-source technologies.
 
-من توسعه‌دهنده‌ی بک‌اند هستم با تمرکز ویژه بر پایتون و جنگو. عاشق توسعه‌ی اپلیکیشن‌های مقیاس‌پذیر و کار با تکنولوژی‌های متن‌بازم.
+من توسعه‌دهنده‌ی بک‌اند هستم با تمرکز ویژه روی پایتون و جنگو. به توسعه‌ی اپلیکیشن‌های مقیاس‌پذیر علاقه دارم و از کار با تکنولوژی‌های متن‌باز لذت می‌برم.
 
 ---
 
 ## 🧑‍💻 About Me | درباره من
 - 🔭 Currently working on: [**Man Market**](https://manmarket.ir/)
-- 🌱 Learning: **English Language**, new backend technologies
+- 🌱 Learning: **English language**, backend tech
 - 💬 Ask me about: `Python`, `Django`, `REST API`, `Docker`, `Celery`
-- 📫 How to reach me:
-  - Telegram: [@AmirRezaATT](https://t.me/AmirRezaATT)
-  - LinkedIn: [amirreza-attary-9b97b2373](https://www.linkedin.com/in/amirreza-attary-9b97b2373/)
-  - Email: programmer.amirrezaattary@gmail.com
+- 📫 Reach me at:
+  - 📧 Email: [programmer.amirrezaattary@gmail.com](mailto:programmer.amirrezaattary@gmail.com)
+  - 💬 Telegram: [@AmirRezaATT](https://t.me/AmirRezaATT)
+  - 💼 LinkedIn: [amirreza-attary-9b97b2373](https://www.linkedin.com/in/amirreza-attary-9b97b2373/)
+
 ---
 
 ## 🛠️ Skills | مهارت‌ها
@@ -31,13 +32,27 @@ I'm a backend developer with a strong focus on Python and Django. I'm passionate
 
 ---
 
+## 🌐 Languages | زبان‌ها
+- 🇮🇷 **فارسی** (زبان مادری)
+- 🇬🇧 **انگلیسی** (در حال یادگیری – سطح مبتدی)
+
+---
+
+## 🎯 Interests | علایق شخصی
+- 🌍 گردشگری و کشف مکان‌های جدید  
+- 🎮 بازی‌های کامپیوتری (خصوصاً ماجراجویی و استراتژی)  
+- 🎬 تماشای فیلم و سریال‌های با کیفیت
+
+---
+
 ## 📊 GitHub Stats
 
 ![AmirrezaAttary's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaAttary&show_icons=true&theme=github_dark)
 
 ---
 
-## 📫 Links | لینک‌ها
-- 🔗 [Telegram](https://t.me/AmirRezaATT)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amirreza-attary-9b97b2373/)
+## 🔗 Links | لینک‌ها
+- 📬 [Email](mailto:programmer.amirrezaattary@gmail.com)
+- 💬 [Telegram](https://t.me/AmirRezaATT)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amirreza-attary-9b97b2373/)
 - 🌐 [Website / Portfolio](https://manmarket.ir/)
